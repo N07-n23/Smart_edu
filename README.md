@@ -1,7 +1,8 @@
 # Smart_edu
 
 # Smart_Edu Project
-![Uploading images.png…]()
+
+
 
 ## Vision
 
